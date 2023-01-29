@@ -11,5 +11,6 @@ var namespacem__str =
     [ "operator>=", "namespacem__str.html#adde4b000b377c2ca06d83dff593b2805", null ],
     [ "operator>>", "namespacem__str.html#aa88d18cb2f3817e97be18ed9fd2618b0", null ],
     [ "strlen_", "namespacem__str.html#a07229d147629ed5e82b35ca3e4afa60d", null ],
-    [ "to_m_str", "namespacem__str.html#aa23795693d70342fae707795f37d9dc5", null ]
+    [ "to_m_str", "namespacem__str.html#ae88e7d6c58f9a5f1f9da60ba88b5611b", null ],
+    [ "Numeric", "namespacem__str.html#a22ede1b3d494dda4ab4f93f4630104c7", null ]
 ];

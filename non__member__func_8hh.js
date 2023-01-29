@@ -9,5 +9,6 @@ var non__member__func_8hh =
     [ "operator>", "non__member__func_8hh.html#a34d1adfa0d3b8744d4a8518ce9d48a7e", null ],
     [ "operator>=", "non__member__func_8hh.html#adde4b000b377c2ca06d83dff593b2805", null ],
     [ "operator>>", "non__member__func_8hh.html#aa88d18cb2f3817e97be18ed9fd2618b0", null ],
-    [ "to_m_str", "non__member__func_8hh.html#aa23795693d70342fae707795f37d9dc5", null ]
+    [ "to_m_str", "non__member__func_8hh.html#ae88e7d6c58f9a5f1f9da60ba88b5611b", null ],
+    [ "Numeric", "non__member__func_8hh.html#a22ede1b3d494dda4ab4f93f4630104c7", null ]
 ];

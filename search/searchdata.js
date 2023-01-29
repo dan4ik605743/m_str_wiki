@@ -5,7 +5,8 @@ var indexSectionsWithContent =
   2: "m",
   3: "ceilmnops",
   4: "abcdefilmoprstvw~",
-  5: "ciprsv"
+  5: "n",
+  6: "ciprsv"
 };
 
 var indexSectionNames =
@@ -15,7 +16,8 @@ var indexSectionNames =
   2: "namespaces",
   3: "files",
   4: "functions",
-  5: "typedefs"
+  5: "variables",
+  6: "typedefs"
 };
 
 var indexSectionLabels =
@@ -25,6 +27,7 @@ var indexSectionLabels =
   2: "Namespaces",
   3: "Files",
   4: "Functions",
-  5: "Typedefs"
+  5: "Variables",
+  6: "Typedefs"
 };
 
